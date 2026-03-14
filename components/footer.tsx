@@ -113,7 +113,7 @@ export function Footer() {
         {/* Bottom Bar */}
         <div className="mt-12 pt-8 border-t border-primary-foreground/20">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm opacity-90">© 2025 Poshkraft. All rights reserved.</p>
+            <p className="text-sm opacity-90">© 2026 Poshkraft. All rights reserved.</p>
             <div className="flex gap-6">
               <Link href="/privacy" className="text-sm opacity-90 hover:opacity-100 transition-opacity">
                 Privacy Policy
